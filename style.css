@@ -1,0 +1,9 @@
+table,th,td{
+    border:1px solid red;
+  }
+  hr{
+    border-style: dotted none none;
+    border-color: aqua;
+    border-width: 5px; 
+    width: 10%;
+  }
